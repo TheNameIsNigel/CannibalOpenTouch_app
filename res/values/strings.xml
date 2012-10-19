@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Cannibal Open Touch</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Cannibal Open Touch</string>
+    <string name="welcome_text">Welcome to Cannibal Open Touch! Use the options below to configure Cannibal Open Touch. If you do not have the Cannibal Open Touch recovery installed, please download and install it from http://www.projectopencannibal.net!\n</string>
+    <string name="zip_verif_toggle_text">Toggle ZIP Verification</string>
+    <string name="zip_nand_text">Toggle ZIP Flash Nandroid Prompt</string>
+    <string name="ors_wipe_text">Toggle GooManager Wipe Prompt</string>
+    <string name="ors_forcereboot_text">Toggle GooManager Forced Reboot</string>
+    <string name="choose_backup_loc_text">Choose Nandroid Backup Location</string>
+    <string name="default_nand_loc_text">/sdcard/cotrecovery</string>
+    <string name="logo_desc_text">HeaderLogo</string>
+    <string name="nand_loc_hint_text">Enter nandroid backup location</string>
+    <string name="nand_loc_text">Enter the path of the directory you wish to save nandroid backups. Example: If you wish to save to /sdcard/mybackup, simply type the word \&quot;mybackup\&quot; (without quotes).</string>
+
+</resources>
